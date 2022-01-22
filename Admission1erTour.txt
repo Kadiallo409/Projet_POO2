@@ -1,0 +1,15 @@
+   Numero      Prenom     Nom        date         Lieu Sexe             Etat  \
+0     101     OUSMANE   KANTE  08/11/2002      Bignona    M          Dagalma   
+1     128       FILLY   POUYE  11/04/2000         Gath    M          Lambaye   
+2     127    BOUBACAR    PENE  21/01/2000  Koumpentoum    M           Gawane   
+3     147  FANTA FIFI  TRAORE  30/09/2002       Bambey    F  Le Baol (Privé)   
+4      90    MAGUETTE    FALL  06/05/2000   Ziguinchor    F         Bambey 2   
+5      55   MOR DIEYE      BA  01/10/2004        Thies    M         Bambey 2   
+
+   Points  
+0     214  
+1     191  
+2     191  
+3     181  
+4     181  
+5     180  

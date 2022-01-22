@@ -1,0 +1,73 @@
+    Numero               Prenom       Nom        date           Lieu Sexe  \
+0       53                DEMBA      AGNE  18/07/2003         Bambey    M   
+1       58           FATOU DIOP        BA  12/11/2003     Mauritanie    F   
+2       60             SAYNABOU     BABOU  27/10/1984         Bambey    F   
+3       69            ABDOULAYE      COLY  19/11/2003     Ourossogui    M   
+4       72            MOUSTAPHA      DEME  07/09/1980       Ndagalma    M   
+5       73            ABY MARIE  DIAFOUNE  22/07/2004    Tambacounda    F   
+6       79                AICHA     DIENG  19/12/2001         Bamako    F   
+7       80  FATOUMATA OUSSEYNOU      DIOP  07/12/2002      Case Case    F   
+8       81               AMADOU      DIOP  04/10/2001          Thies    M   
+9       91               AMADOU      FALL  05/02/2003       Kaffrine    M   
+10      92                MBAYE      FALL  10/02/2003          Louga    M   
+11      94                MAYIB      FALL  22/12/2000    Ndiaga Niaw    M   
+12      98                 IBRA     GOMIS  16/01/2005  Keur Madiabel    M   
+13     103            KHAOUSSOU     KASSE  27/11/2005        Kébémer    M   
+14     104              ANTOINE     KEITA  15/12/2003          Matam    M   
+15     105                MAURY     KOITE  10/07/2005          Podor    M   
+16     109                BELLA      LEYE  21/12/2004       Diourbel    F   
+17     111               CHEIKH        LY  19/05/2003    Koumpentoum    M   
+18     113           PAPE DEMBA   MANGANE  07/07/2002          Touba    M   
+19     117              MANSOUR      MBOW  12/06/2002         Pikine    M   
+20     119         MAMDOU BARRY    NDIAYE  21/04/2002   Foundioungue    M   
+21     120                 DAME    NDIAYE  08/09/1999    Ross Béthio    M   
+22     124                ARONA     NIANG  19/01/2000          Kanel    M   
+23     126         MAMADOU IBRA     NIANG  17/10/2004        Sédhiou    M   
+24     132             MANDIAYE      SAMB  03/11/2005        Kaolack    M   
+25     133       SERIGNE NGOUDA      SARR  22/07/2000          Matam    M   
+26     134              MASSAER      SARR  17/01/1991          Kanel    M   
+27     135                SECKA   SASYLVA  24/11/2002          Podor    M   
+28     136            FRANCISCA      SECK  24/03/2001           Pout    F   
+29     138           MADJIGUENE      SECK  01/09/1987         Bambey    F   
+30     139               MEISSA      SENE  17/03/2000          Dakar    M   
+31     142            STEPHANIE    SIDIBE  15/03/2002           Mpal    F   
+32     143        FATOU BINETOU    SIDIBE  09/02/2003          Mbour    F   
+33     144             MAYACINE    SOUARE  08/11/2005         Bambey    M   
+34     145                MACKY        SY  06/11/2001         Bambey    M   
+
+                 Etat  Points  
+0            Bambey 3     162  
+1              Gawane     166  
+2   Encadrement Libre     161  
+3         GSM (Privé)     167  
+4   Encadrement Libre     159  
+5            Bambey 3     162  
+6         GSM (Privé)     167  
+7            Bambey 2     154  
+8            Thiakhar     176  
+9            Bambey 2     155  
+10           Bambey 2     166  
+11            Dagalma     163  
+12    Keur Samba Kane     168  
+13  Encadrement Libre     158  
+14             Gawane     166  
+15  Encadrement Libre     174  
+16        GSM (Privé)     160  
+17    Le Baol (Privé)     166  
+18             Gawane     159  
+19           Bambey 3     156  
+20           Bambey 3     170  
+21  Encadrement Libre     170  
+22           Bambey 2     154  
+23           Bambey 2     172  
+24  Encadrement Libre     158  
+25            Lambaye     159  
+26  Encadrement Libre     153  
+27             Gawane     158  
+28           Bambey 3     178  
+29  Encadrement Libre     157  
+30           Bambey 3     158  
+31            Lambaye     162  
+32            Lambaye     158  
+33            Lambaye     155  
+34            Lambaye     173  
