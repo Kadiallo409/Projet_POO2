@@ -122,7 +122,7 @@ def listAjourner(l):
 def calculPoint1erTour():
     # Fetch data   
     # Nombre de point de chaque
-    con = mysql.connector.connect(host="localhost", user="root", password="", database="examen_bfem")
+    con = mysql.connector.connect(host="localhost", user="root", password="", database="jury")
     cur = con.cursor()
     cur.execute('SELECT ((`Note EPS`-10) + `Note CF`*2 + `Note Ort`*1 + `Note TSQ`*1 + `Note SVT`*2 + `Note ANG1`*2 + `Note MATH`*4 + `Note HG`*2 + `Note IC`*1 + `Note PC/LV2`*2 + `Note ANG2`*1+(CASE WHEN `Note Ep Fac` > 10 THEN `Note Ep Fac` - 10 ELSE 0 END)) AS nbPoints FROM `feuille_1`')   #(nbPoint, nbPoint2, nbPoint3, nbPoint4)
     l = cur.fetchall()  
@@ -232,7 +232,7 @@ def calculPoint1erTour():
     pdf.add_page()
     pdf.set_font('arial', 'B', 2.0) 
      
-    files = open("Admission1erTour.txt","w")
+    files = open("projetPOO2/Admission1erTour.txt","w")
     files.write(str(df))
     files.close()
      
@@ -241,7 +241,7 @@ def calculPoint1erTour():
     pdf.add_page()
     pdf.set_font('arial', 'B', 2.0)
     
-    files = open("Python/Passage2ndTour.txt","w")
+    files = open("projetPOO2/Passage2ndTour.txt","w")
     files.write(str(df1))
     files.close()
 
